@@ -1,0 +1,2 @@
+total_flights,cancelled_flights,diverted_flights,delayed_flights,on_time_flights,avg_arrival_delay,avg_departure_delay,cancellation_rate_pct,diverted_rate_pct,delayed_rate_pct,on_time_rate_pct
+5819079,89884,15187,2086896,3627112,4.41,9.37,1.54,0.26,35.86,62.33
