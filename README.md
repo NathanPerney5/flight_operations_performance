@@ -78,19 +78,14 @@ The dashboard includes 5 main components:
 ## 🧱 Data Pipeline
 
 1. Raw data ingestion (CSV files)
-2. Data cleaning with Python:
 
-   * Date formatting
-   * Column renaming
-   * Type conversion
-
-3. Data transformation with DuckDB:
+2. Data transformation with DuckDB:
 
    * Aggregations (monthly, airline, airport)
    * KPI computation
   
-4. Export of optimized datasets for Tableau
-5. Dashboard creation
+3. Export of optimized datasets for Tableau
+4. Dashboard creation
 
 ---
 
@@ -105,6 +100,8 @@ flight-delay-analysis/
 │
 ├── notebooks/
 │   ├── data_understanding_analysis.ipynb
+├── visual/
+│   ├── screenshot of Tableau dashboard
 │
 ├── README.md
 ```
