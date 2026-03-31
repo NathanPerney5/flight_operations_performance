@@ -19,6 +19,14 @@ The objective is to demonstrate end-to-end data skills:
 * Identify the main causes of delays
 * Evaluate airline performance
 * Highlight geographical patterns in delays
+---
+
+## Data
+
+Raw data is not included in this repository due to size limitations.
+
+You can download the dataset here:
+(https://www.kaggle.com/datasets/usdot/flight-delays)
 
 ---
 
